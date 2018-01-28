@@ -10,3 +10,6 @@ Internal internal link experiments:
   * `<02_explore-libraries_jenny>` <02_explore-libraries_jenny>
   * `<02_explore-libraries_jenny.md>` <02_explore-libraries_jenny.md>
   * `<02_explore-libraries_jenny.html>` <02_explore-libraries_jenny.html>
+  * `[02_explore-libraries_jenny](02_explore-libraries_jenny)` [02_explore-libraries_jenny](02_explore-libraries_jenny)
+  * `[02_explore-libraries_jenny.md](02_explore-libraries_jenny.md)` [02_explore-libraries_jenny.md](02_explore-libraries_jenny.md)
+  * `[02_explore-libraries_jenny.html](02_explore-libraries_jenny.html)` [02_explore-libraries_jenny.html](02_explore-libraries_jenny.html)
