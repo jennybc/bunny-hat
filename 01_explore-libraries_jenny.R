@@ -2,6 +2,14 @@
 #' output: github_document
 #' ---
 
+#+ setup, include = FALSE
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+
 ## how jenny might do this in a first exploration
 ## purposely leaving a few things to change later!
 
